@@ -1,0 +1,117 @@
+*{
+    background: #E5E5E5;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+
+
+.logo-container {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+
+main {
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 80px;
+}
+
+.text-area {
+    border: none;
+    color: #0A3871;
+    margin-top: 90px;
+    text-transform: lowercase;
+    margin-left: 30px;
+
+}
+
+::placeholder {color: #0A3871; text-transform:initial; }
+    .text-area:focus {
+        outline: none;
+}
+
+
+.informacao h6 {
+    color:#495057;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+
+.botoes {
+    display: flex;
+    margin-top: 18px;
+}
+
+.botao-criptografar {
+    background:#0A3871;
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    color: white;
+    cursor:pointer;
+    height: 67px;
+    margin-left: 30px;
+    width: 328px;
+    font-size: 16px;
+}
+
+
+.botao-descriptografar {
+    background: #D8DFE8;
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    color: #0A3871;
+    cursor:pointer;
+    height: 67px;
+    margin-left: 30px;
+    width: 328px;
+    font-size: 16px;
+}
+
+
+.mensagem {
+    background: white;
+    background-image: url(imagens/boneco.png.png);
+    background-repeat:no-repeat;
+    border: none;
+    border-radius: 32px;
+    color: #0A3871;
+    margin-left: 98px;
+    margin-top: 20px;
+    padding-left: 20px;
+    position: fixed;
+}
+
+.mensagem:focus {
+    outline: none;
+}
+
+.botao-copiar {
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    color: #0A3871;
+    cursor:pointer;
+    height: 67px;
+    margin-left: 108px;
+    margin-top: 402px;
+    position: absolute;
+    width: 336px;
+    font-size: 16px;
+}
+
+footer  {
+    text-align: center;
+    width: 100%;
+    color: #0A3871;
+    margin-top: 200px;
+    font-size: 12px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 12px;
+}
