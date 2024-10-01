@@ -1,5 +1,5 @@
 # Challenge Decodificador de Texto
-###### Curso: Formação Iniciante em Programação da Alura, em parceria com a Oracle.
+###### Curso: Formação Iniciante em Programação da Alura + Oracle.
 Com uma interface simples e acessível, o Decodificador de Texto permite que o usuário insira texto e selecione a opção desejada entre criptografar e descriptografar, mostrando o resultado instantaneamente. Inclui também um botão para copiar o texto para a área de transferência de forma rápida e prática.
 
 As "chaves" de criptografia que utilizadas são:
